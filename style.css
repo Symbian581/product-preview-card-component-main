@@ -110,6 +110,11 @@ body {
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
+
+.cart:hover {
+  background-color: var(--Darkcyandark);
+}
+
 @media screen and (min-width: 375px) {
   .main-1 {
     background-image: url('image-product-desktop.jpg');
